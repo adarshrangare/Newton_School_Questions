@@ -1,4 +1,4 @@
-
+// https://my.newtonschool.co/playground/code/uutyrmuadftw
 class ReverseFirstKelementsofQueue{
 {
 static Queue<Integer> ReverseK(Queue<Integer> queue, int k) { 
