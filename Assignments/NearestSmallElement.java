@@ -1,6 +1,7 @@
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
 
+// https://my.newtonschool.co/playground/code/ntpx0bwvpkdc
 // don't change the name of this class
 // you can add inner classes if needed
 class NearestSmallElement {
