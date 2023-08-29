@@ -3,7 +3,7 @@ import java.util.*; // contains Collections framework
 // https://my.newtonschool.co/playground/code/d60hm1ntqh75
 // don't change the name of this class
 // you can add inner classes if needed
-class MissingNumb {
+class MissingNumberWithHashSet {
     public static void main (String[] args) {
         // Your code here
         Scanner sc = new Scanner(System.in);
